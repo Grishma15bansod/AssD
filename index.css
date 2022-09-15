@@ -12,9 +12,9 @@
     height: 266px;
     width: 275px;
     padding: 6px;
-    margin-left: 271px;
+    margin-left: 230px;
     position: relative;
-    top: 98px;
+    top: 2px;
     z-index: 1;
     
 
@@ -30,7 +30,7 @@ background-color: #2a4275;
     padding: 10px;
     margin: 42px;
     margin-left: 536px;
-    margin-top: -488px;
+    margin-top: -595px;
     /* left: 542px; */
     height: 138px;
     /* background-color: #EE1F42;
@@ -50,7 +50,7 @@ background-color: #2a4275;
 .form{
     padding: 43px;
     margin-left: 813px;
-    margin-top: -602px;
+    margin-top: -706px;
     
 }
 .para{
@@ -202,5 +202,5 @@ background-color: #2a4275;
     height: 331px;
     margin-left: 261px;
     position: relative;
-    top: -223px;
+    top: -324px;
 }

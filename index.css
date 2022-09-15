@@ -9,15 +9,18 @@
 }*/
     
 .five img{
-    height: 100px;
-    width: 88px;
+    height: 266px;
+    width: 275px;
     padding: 6px;
-    margin-left: 418px;
+    margin-left: 271px;
     position: relative;
-    top: 3px;
+    top: 98px;
+    z-index: 1;
+    
 
 }
 .child1{
+
 background-color: #2a4275;
 }
 .head1{
@@ -25,29 +28,35 @@ background-color: #2a4275;
     position: absolute;
     padding: 10px;
     margin: 42px;
-    margin-left: 512px;
-    margin-top: -163px;
+    margin-left: 536px;
+    margin-top: -488px;
     /* left: 542px; */
     height: 138px;
-    background-color: #EE1F42;
+    /* background-color: #EE1F42;
     border-radius: 89px;
     border-bottom-left-radius: unset;
     border-top-left-radius: unset;
-    border-top-right-radius: unset;
+    border-top-right-radius: unset; */
+    font-family: 'Roboto Slab', serif;
+    font-size: 46px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-shadow: -3px 7px 8px green;
     
    
 
 }
 .form{
     padding: 43px;
-    margin-left: 689px;
-    margin-top: -207px;
+    margin-left: 813px;
+    margin-top: -602px;
     
 }
 .para{
     background-color: #DEECFF;
     text-align: center;
-    padding: 10px;
+    padding: 31px;
+    font-size: 19px;
 
 }
 .par1{
@@ -147,7 +156,7 @@ background-color: #2a4275;
     margin: 10px;
     padding: 10px;
     width: 734px;
-    margin-left: 297px;
+    margin-left: 310px;
     border-radius: 39px;
     height: 232px;
     /* display: flex;
@@ -164,7 +173,7 @@ background-color: #2a4275;
     margin: 34px;
     width: 739px;
     height: 306px;
-    margin-left: 299px;
+    margin-left: 291px;
     border-radius: 39px;
 }
 .hed5{
@@ -179,9 +188,18 @@ background-color: #2a4275;
 }
 .ipp{
     width: 278px;
-    height: 5px;
+    height: 6px;
     border: 1px solid white;
+    border-radius: 21px;
+
     text-align: center;
     color: white;
     padding: 29px;
+}
+
+.vector img{
+    height: 331px;
+    margin-left: 261px;
+    position: relative;
+    top: -223px;
 }
